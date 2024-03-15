@@ -20,7 +20,7 @@ This C program demonstrates how to swap the values of two integers using pointer
 3. The `swap()` function is called, which swaps the values of A and B using pointers.
 4. After swapping, the program displays the new values of A and B.
 
-## Example
+# Example
 
 ```
 Enter Value for A: 10 
